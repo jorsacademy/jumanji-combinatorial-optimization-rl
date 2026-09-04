@@ -12,6 +12,7 @@ dependencies = [
   "jax>=0.4.26,<0.4.36",
   "jumanji==1.1.1",
   "numpy>=1.26,<3",
+  "requests>=2.31",
 ]
 
 [project.optional-dependencies]
